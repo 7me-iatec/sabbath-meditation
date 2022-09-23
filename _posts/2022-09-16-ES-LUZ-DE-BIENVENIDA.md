@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "GUERRERO PARA JESÚS"
-date:   2022-09-23 03:00:00 -0300
-date-show: 23 de septiembre
+date:   2022-09-16 03:00:00 -0300
+date-show: 16 de septiembre
 verse: Una vez más les dijo: “La paz sea con ustedes. Como el Padre me envió a mí, así yo los envío a ustedes”.
 verse-ref: Juan 20:21
 categories: meditation es
