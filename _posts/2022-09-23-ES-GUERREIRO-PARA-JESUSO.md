@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "GUERREIRO PARA JESUS"
+title:  "GUERREIRO PARA JESUS 2"
 date:   2022-09-23 03:00:00 -0300
 date-show: 23 de setembro
 verse: Assim como o Pai Me enviou, Eu também envio vocês.
