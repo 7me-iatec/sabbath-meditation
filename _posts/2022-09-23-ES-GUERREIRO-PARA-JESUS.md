@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "GUERRERO PARA JESUS"
+title:  "GUERREIRO PARA JESUS"
 date:   2022-09-22 03:00:00 -0300
-date-show: 23 de septiembre
-verse: Una vez más les dijo: “La paz sea con ustedes. Como el Padre me envió a mí, así yo los envío a ustedes”. 
-verse-ref: Juan 20:21
-categories: meditation es
+date-show: 23 de setembro
+verse: Assim como o Pai Me enviou, Eu também envio vocês.
+verse-ref: João 20:21
+categories: meditation pt
 ---
 
 Amanecía y, como de costumbre, Jaslene se había levantado antes de la salida del Sol para preparar el desayuno. Parecía un día perfecto en la isla de Mindoro, en Filipinas.
