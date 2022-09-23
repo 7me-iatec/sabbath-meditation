@@ -5,7 +5,7 @@ date:   2022-09-22 03:00:00 -0300
 date-show: 23 de setembro
 verse: Assim como o Pai Me enviou, Eu também envio vocês.
 verse-ref: João 20:21
-categories: meditation pt
+categories: meditation es
 ---
 
 Amanecía y, como de costumbre, Jaslene se había levantado antes de la salida del Sol para preparar el desayuno. Parecía un día perfecto en la isla de Mindoro, en Filipinas.
