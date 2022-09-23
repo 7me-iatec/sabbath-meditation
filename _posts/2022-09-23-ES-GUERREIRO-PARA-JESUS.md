@@ -3,7 +3,7 @@ layout: post
 title:  "GUERREIRO PARA JESUS"
 date:   2022-09-22 03:00:00 -0300
 date-show: 23 de setembro
-verse: Entonces Jesús les dijo otra vez: Paz a vosotros. Como me envió el Padre, así también yo os envío.
+verse: "Entonces Jesús les dijo otra vez: Paz a vosotros. Como me envió el Padre, así también yo os envío."
 verse-ref: Juan 20:21
 categories: meditation es
 ---
