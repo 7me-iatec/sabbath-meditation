@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "GUERREIRO PARA JESUS"
+title:  "GUERRERO PARA JESÚS"
 date:   2022-09-22 03:00:00 -0300
-date-show: 23 de setembro
+date-show: 23 de septiembre
 verse: "Entonces Jesús les dijo otra vez: Paz a vosotros. Como me envió el Padre, así también yo os envío."
 verse-ref: Juan 20:21
 categories: meditation es
