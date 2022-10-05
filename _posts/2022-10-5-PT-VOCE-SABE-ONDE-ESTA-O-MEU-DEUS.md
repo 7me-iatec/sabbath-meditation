@@ -20,4 +20,6 @@ Os olhos de Hari se encheram de lágrimas, e senti que ele desejava saber mais s
 
 Tudo isso aconteceu porque Hari estava tentando encontrar seu deus naquele dia. Ele mal podia imaginar que sua busca o levaria a encontrar o Deus verdadeiro.
 
-A Missão Global sustenta centenas de missionários pioneiros que trabalham em países da Janela 10/40, onde não há presença adventista. O ministério deles não seria possível sem suas ofertas regulares e orações. Obrigado por seu apoio!
+A Missão Global sustenta centenas de missionários pioneiros que trabalham em países da Janela 10/40, onde não há presença adventista. O ministério deles não seria possível sem suas ofertas regulares e orações.
+
+Obrigado por seu apoio!
