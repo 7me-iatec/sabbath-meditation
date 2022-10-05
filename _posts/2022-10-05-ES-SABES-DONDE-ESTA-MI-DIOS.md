@@ -34,4 +34,6 @@ Los ojos de Hari se llenaron de lágrimas, y sentí que quería saber más sobre
 
 Todo esto sucedió porque Hari estaba tratando de encontrar a su dios ese día. Apenas podía imaginar que su búsqueda lo llevaría a encontrar al Dios verdadero. ¡Estoy agradecido de que Hari ahora pueda convertirse en hijo del Rey de reyes y Señor de señores!
 
-Misión Global apoya a cientos de misioneros pioneros que trabajan en países de la Ventana 10/40, donde no hay presencia adventista. Su ministerio no sería posible sin tus ofrendas y tus oraciones regulares. ¡Gracias por tu apoyo!
+Misión Global apoya a cientos de misioneros pioneros que trabajan en países de la Ventana 10/40, donde no hay presencia adventista. Su ministerio no sería posible sin tus ofrendas y tus oraciones regulares.
+
+¡Gracias por tu apoyo!
