@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "SANADO-AL-CONSTRUIR"
+title:  "SANADO AL CONSTRUIR"
 date:   2022-10-13 03:00:00 -0300
 date-show: 14 de octubre
 verse: Todos trataban de tocarlo, porque de él salía poder sanador, y los sanó a todos. 
