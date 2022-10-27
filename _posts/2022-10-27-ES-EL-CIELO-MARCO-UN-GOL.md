@@ -3,7 +3,7 @@ layout: post
 title:  "EL CIELO MARCÓ UN GOL"
 date:   2022-10-27 03:00:00 -0300
 date-show: 28 de octubre
-verse: Como está escrito: ¡Cuán hermosos son los pies de los que anuncian la paz, de los que anuncian buenas nuevas!
+verse: ¡Cuán hermosos son los pies de los que anuncian la paz, de los que anuncian buenas nuevas!
 verse-ref: Romanos 10:15
 categories: meditation es
 ---
