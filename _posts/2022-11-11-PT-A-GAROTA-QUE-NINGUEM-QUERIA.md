@@ -20,4 +20,4 @@ Percebendo o sofrimento de Malee, os líderes da aldeia imploraram ao abrigo par
 
 A equipe do abrigo trabalhou incansavelmente para entender Malee e lhe demonstrar amor. “Depois de meses de aconselhamento, frequentando a escola e indo à igreja, Malee melhorou.” A garota que ninguém queria agora canta, desenha e lê. Ela também está aprendendo a tocar violino. Livre de um passado doloroso, Malee é uma nova pessoa. Obrigado por apoiar a Adra ao doar suas ofertas. Isso possibilita que crianças como Malee sejam ajudadas e encontrem esperança.
 
-* Por questão de segurança, os nomes e lugares foram alterados.
+(* Por questão de segurança, os nomes e lugares foram alterados.)
