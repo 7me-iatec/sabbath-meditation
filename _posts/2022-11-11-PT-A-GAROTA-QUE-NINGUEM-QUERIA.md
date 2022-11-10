@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "A GAROTA QUE NINGUÉM QUERIA"
-date:   2022-11-03 03:00:00 -0300
-date-show: 04 de novembro
+date:   2022-11-10 03:00:00 -0300
+date-show: 11 de novembro
 verse: Eu, porém, não Me esquecerei de você.
 verse-ref: Isaías 49:15
 categories: meditation pt
