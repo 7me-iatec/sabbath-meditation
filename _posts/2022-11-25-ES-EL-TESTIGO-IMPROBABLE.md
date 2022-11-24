@@ -3,7 +3,7 @@ layout: post
 title:  "EL TESTIGO IMPROBABLE"
 date:   2022-11-22 03:00:00 -0300
 date-show: 25 de noviembre
-verse: Jesús le dijo: Yo soy la resurrección y la vida. El que cree en mí vivirá aun después de haber muerto.
+verse: Jesús le dijo Yo soy la resurrección y la vida. El que cree en mí vivirá aun después de haber muerto.
 verse-ref: Juan 11:25
 categories: meditation es
 ---
