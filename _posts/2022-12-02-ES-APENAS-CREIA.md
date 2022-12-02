@@ -3,7 +3,7 @@ layout: post
 title:  "SOLO CREE"
 date:   2022-12-1 03:00:00 -0300
 date-show: 2 de diciembre
-verse: Jesús le dijo: Sigue pidiendo y recibirás lo que pides; sigue buscando y encontrarás; sigue llamando, y la puerta se te abrirá.
+verse: Sigue pidiendo y recibirás lo que pides; sigue buscando y encontrarás; sigue llamando, y la puerta se te abrirá.
 verse-ref: Mateo 7:7
 categories: meditation es
 ---
