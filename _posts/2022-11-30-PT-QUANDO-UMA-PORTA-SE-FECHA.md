@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "QUANDO UMA PORTA SE FECHA"
-date:   2022-12-29 03:00:00 -0300
+date:   2022-12-28 03:00:00 -0300
 date-show: 30 de dezembro
 verse: Sejam sábios no modo de agir com os que são de fora e aproveitem bem o tempo.
 verse-ref: Colossenses 4:5
