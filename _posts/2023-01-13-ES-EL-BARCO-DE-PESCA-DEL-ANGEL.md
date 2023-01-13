@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "EL BARCO DE P ESCA DEL ÁNGEL"
+title:  "EL BARCO DE PESCA DEL ÁNGEL"
 date:   2023-01-12 03:00:00 -0300
 date-show: 13 de enero
 verse: "Pues a sus ángeles mandará acerca de ti, que te guarden en todos tus caminos"
