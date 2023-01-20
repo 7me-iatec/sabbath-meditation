@@ -2,7 +2,7 @@
 layout: post
 title:  "O CORAÇÃO DE DINESH"
 date:   2022-09-19 03:00:00 -0300
-date-show: 20 de setembro
+date-show: 20 de janeiro
 verse: Ele sara os que têm o coração quebrantado e trata das feridas deles.
 verse-ref: Salmo 147:3
 categories: meditation pt
