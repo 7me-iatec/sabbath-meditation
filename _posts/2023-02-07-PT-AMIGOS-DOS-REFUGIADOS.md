@@ -3,9 +3,7 @@ layout: post
 title:  "AMIGOS DOS REFUGIADOS"
 date:   2023-02-07 03:00:00 -0300
 date-show: 17 de fevereiro
-verse: Pois nunca deixará de haver pobres na terra. Por isso, Eu ordeno a vocês
-que, livremente, abram a mão para o seu compatriota, para o necessitado,
-para o pobre que vive na terra de vocês.
+verse: Pois nunca deixará de haver pobres na terra. Por isso, Eu ordeno a vocês que, livremente, abram a mão para o seu compatriota, para o necessitado, para o pobre que vive na terra de vocês.
 verse-ref: Deuteronômio 15:11
 categories: meditation pt
 ---
