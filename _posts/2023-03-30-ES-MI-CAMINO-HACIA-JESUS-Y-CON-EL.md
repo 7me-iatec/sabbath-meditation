@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "ORACIONES EN EL PARQUE"
-date:   2023-03-23 03:00:00 -0300
-date-show: 24 de marzo
-verse: Anuncien sus gloriosas obras entre las naciones; cuéntenles a todos las cosas asombrosas que él hace
-verse-ref: Salmo 96:3
+title:  "MI CAMINO HACIA JESÚS Y CON ÉL"
+date:   2023-03-30 03:00:00 -0300
+date-show: 31 de marzo
+verse: Por tanto, de la manera que habéis recibido al Señor Jesucristo, andad en él
+verse-ref: Colosenses 2:6
 categories: meditation es
 ---
 
