@@ -13,7 +13,9 @@ C. D. Brooks (1930-2016) fue uno de los evangelistas más exitosos en la histori
 Era pastor de la iglesia de Éfeso en Columbus, Ohio, y estaba organizando su primera serie de evangelismo. Cada noche, un alcohólico conocido por todos como Pequeño Willie entraba en la tienda, despeinado y oliendo a alcohol rancio. Después de ocho semanas de predicación, finalmente llegó el “momento de decisión”. Willie seguía viniendo. Un día, la hermana Bond, una diligente instructora bíblica, pidió hablar con Brooks.
 
 –Pastor, Willie Webster quiere ser bautizado.
+
 –¿Pequeño Willie? –preguntó Brooks con incredulidad–. Está borracho la mayor parte del tiempo. Él no entiende lo que estoy predicando. No está listo y no es sincero.
+
 –Al menos vaya a visitarlo, pastor –suplicó ella.
 Brooks condujo hasta el centro de la ciudad para ver a Willie.
 –Willie –comenzó Brooks con bastante severidad–, entiendo por la hermana Bond que deseas ser bautizado.
