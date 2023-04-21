@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "EU FALHEI COM VOCÊ?"
-date:   2023-04-21 03:00:00 -0300
+date:   2023-04-20 03:00:00 -0300
 date-show: 21 de abril
 verse: E, quando estiverem orando, se tiverem alguma coisa contra alguém, perdoem, para que o Pai de vocês, que está nos Céus, perdoe as ofensas de vocês.
 verse-ref: Marcos 11:25
