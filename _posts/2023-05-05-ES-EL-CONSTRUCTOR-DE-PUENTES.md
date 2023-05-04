@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "LA ORACIÓN DE KIMI"
+title:  "EL CONSTRUCTOR DE PUENTES"
 date:   2023-05-04 03:00:00 -0300
 date-show: 5 de mayo
 verse: Pues Cristo mismo nos ha traído la paz. Él unió a judíos y a gentiles en un solo pueblo cuando, por medio de su cuerpo en la cruz, derribó el muro de hostilidad que nos separaba.
