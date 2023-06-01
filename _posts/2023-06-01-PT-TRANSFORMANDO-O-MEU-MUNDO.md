@@ -8,7 +8,7 @@ verse-ref: Isaías 40:29
 categories: meditation pt
 ---
 
-Sobrecarregada e estressada. Era assim que eu me sentia como professora de 400 estudantes de escolas públicas em uma das cidades mais belas e perigosas de El Salvador. Cheguei ao país com planos de mudar o mundo e com a confiança de que Deus me ajudaria a superar qualquer obstáculo que se colocasse no caminho. Durante os primeiros seis meses, tudo saiu conforme o planejado. Então, as coisas começaram a desmoronar
+Sobrecarregada e estressada. Era assim que eu me sentia como professora de 400 estudantes de escolas públicas em uma das cidades mais belas e perigosas de El Salvador. Cheguei ao país com planos de mudar o mundo e com a confiança de que Deus me ajudaria a superar qualquer obstáculo que se colocasse no caminho. Durante os primeiros seis meses, tudo saiu conforme o planejado. Então, as coisas começaram a desmoronar.
 
 As longas horas de aulas e o estresse de lidar com os problemas dos alunos me deixavam esgotada. Estava ficando sem dinheiro. Tinha o hábito de preparar o almoço em casa e levá-lo para o trabalho, pois não podia me dar o luxo de comer fora. Um dia, me esqueci de levar o almoço. “Senhor, Tu sabes que estou com fome”, orei. “Por favor, providencia algo para eu comer.” Não demorou muito, e um aluno me ofereceu uma vitamina de frutas. Fiquei muito agradecida. Enquanto a saboreava, outro aluno me deu um pastel, e outro, uma fruta. Naquele dia, Deus me alimentou com mais do que eu havia pedido.
 
