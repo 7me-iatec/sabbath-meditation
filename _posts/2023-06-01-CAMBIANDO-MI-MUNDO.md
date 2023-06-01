@@ -2,7 +2,7 @@
 layout: post
 title:  "CAMBIANDO MI MUNDO"
 date:   2023-06-01 03:00:00 -0300
-date-show: 02 de junho
+date-show: 2 de junio
 verse: "Él da esfuerzo al cansado, y multiplica las fuerzas al que no tiene ningunas."
 verse-ref: Isaías 40:29
 categories: meditation es
