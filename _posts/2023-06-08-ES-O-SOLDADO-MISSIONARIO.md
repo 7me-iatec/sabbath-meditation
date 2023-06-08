@@ -4,7 +4,7 @@ title:  "EL SOLDADO QUE SE HIZO MISIONERO"
 date:   2023-05-11 03:00:00 -0300
 date-show: 9 de junio
 verse: Ustedes saben que, siempre que se pone a prueba la fe, la constancia tiene una oportunidad para desarrollarse.
-verse-ref: Santiago 1:3
+verse-ref: (Santiago 1:3)
 categories: meditation es
 ---
 Gege Saran estaba enfermo. Su madre lo llevó al médico, quien hizo un diagnóstico impactante: Gege tenía una enfermedad que requería la amputación de ambas piernas. De lo contrario, dijo el médico, la enfermedad se extendería a su corazón y moriría. Gege no esperó a escuchar más; huyó del consultorio del médico. Más tarde en casa, le dijo a su madre que Jesús lo sanaría.
