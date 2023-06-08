@@ -4,7 +4,7 @@ title:  "O SOLDADO MISSIONÁRIO"
 date:   2023-06-08 03:00:00 -0300 
 date-show: 9 de junho
 verse: Meus irmãos, tenham por motivo de grande alegria o fato de passarem por várias provações, sabendo que a provação da fé que vocês têm produz perseverança.
-verse-ref: Tiago 1:2, 3
+verse-ref: (Tiago 1:2, 3)
 categories: meditation pt
 ---
 
