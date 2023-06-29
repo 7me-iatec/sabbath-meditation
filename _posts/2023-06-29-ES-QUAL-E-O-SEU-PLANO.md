@@ -3,7 +3,7 @@ layout: post
 title:  "¿CUÁL ES TU PLAN?"
 date:   2023-06-29 03:00:00 -0300
 date-show: 30 de junio
-verse: Mas yo en ti confío, oh Jehová; digo: Tú eres mi Dios. En tu mano están mis tiempos.
+verse: Mas yo en ti confío, oh Jehová; digo Tú eres mi Dios. En tu mano están mis tiempos.
 verse-ref: (Salmos 31:15)
 categories: meditation es
 ---
