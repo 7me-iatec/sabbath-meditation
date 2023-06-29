@@ -7,7 +7,7 @@ verse: Mas yo en ti confío, oh Jehová; digo: Tú eres mi Dios. En tu mano est�
 verse-ref: (Salmos 31:15)
 categories: meditation es
 ---
-“¿Cuál es tu plan?” Esa pregunta sobre mi futuro me seguía como una sombra. ¿Cómo podría tener éxito si ni siquiera sabía a dónde iba? Frustrada y sin esperanza, oré pidiéndole a Dios que me enviara esperanza y una respuesta a esta pregunta.
+¿Cuál es tu plan? Esa pregunta sobre mi futuro me seguía como una sombra. ¿Cómo podría tener éxito si ni siquiera sabía a dónde iba? Frustrada y sin esperanza, oré pidiéndole a Dios que me enviara esperanza y una respuesta a esta pregunta.
 
 Poco tiempo después, encontré su respuesta en Jeremías 29:11 y 12. Sentí que Dios me hablaba. “Sé los planes que tengo para ti, Hayley. No es necesario que los conozcas en este momento, ¡pero puedes confiar en mí!” ¿Cómo pude haber olvidado confiar en el Dios que estuvo a mi lado tantas veces?
 
