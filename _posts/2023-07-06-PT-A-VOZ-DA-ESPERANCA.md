@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "A VOZ DA ESPERANÇA"
-date:   2023-06-06 03:00:00 -0300 
-date-show: 7 de junho
+date:   2023-07-06 03:00:00 -0300 
+date-show: 7 de julho
 verse: Quem ama o seu pai ou a sua mãe mais do que a Mim não é digno de Mim; quem ama o seu filho ou a sua filha mais do que a Mim não é digno de Mim; e quem não toma a sua cruz e vem após Mim não é digno de Mim.
 verse-ref: Mateus 10:37, 38
 categories: meditation pt
