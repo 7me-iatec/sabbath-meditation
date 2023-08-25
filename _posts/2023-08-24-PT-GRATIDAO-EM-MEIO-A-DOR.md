@@ -3,7 +3,7 @@ layout: post
 title:  "GRATIDÃO EM MEIO À DOR"
 date:   2023-08-24 03:00:00 -0300
 date-show: 25 de agosto
-verse: Aquele que dá testemunho destas coisas diz: “Certamente venho sem demora.” Amém! Vem, Senhor Jesus!
+verse: Aquele que dá testemunho destas coisas diz: Certamente venho sem demora. Amém! Vem, Senhor Jesus!
 verse-ref: Apocalipse 22:20
 categories: meditation pt
 ---
