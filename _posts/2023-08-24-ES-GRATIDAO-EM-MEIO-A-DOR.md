@@ -3,7 +3,7 @@ layout: post
 title:  "GRATITUD EN MEDIO DEL DOLOR"
 date:   2023-08-25 03:00:00 -0300 
 date-show: 25 de agosto
-verse: Ciertamente, vengo en breve. Amén, sea así. Ven: Señor Jesús
+verse: Ciertamente, vengo en breve. Amén, sea así. Ven Señor Jesús
 verse-ref: Apocalipsis 22:20
 categories: meditation pt
 ---
