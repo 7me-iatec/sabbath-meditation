@@ -3,7 +3,7 @@ layout: post
 title:  "MI ALEGRÍA"
 date:   2023-08-31 03:00:00 -0300 
 date-show: 1 de Septiembre
-verse: Una vez más les dijo "La paz sea con ustedes. Como el Padre me envió a mí, así yo los envío a ustedes"
+verse: Una vez más les dijo -La paz sea con ustedes. Como el Padre me envió a mí, así yo los envío a ustedes
 verse-ref: Juan 20:21
 categories: meditation pt
 ---
