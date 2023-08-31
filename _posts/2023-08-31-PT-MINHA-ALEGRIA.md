@@ -3,7 +3,7 @@ layout: post
 title:  "MINHA ALEGRIA"
 date:   2023-08-31 03:00:00 -0300
 date-show: 1 de Setembro
-verse: E Jesus lhes disse outra vez “Que a paz esteja com vocês! Assim como o Pai Me enviou, Eu também envio vocês.”
+verse: E Jesus lhes disse outra vez -Que a paz esteja com vocês! Assim como o Pai Me enviou, Eu também envio vocês.
 verse-ref: João 20:21
 categories: meditation pt
 ---
