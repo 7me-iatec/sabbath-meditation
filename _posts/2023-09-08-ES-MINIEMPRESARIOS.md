@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Miniemprendedores"
+title:  "MINIEMPRENDEDORES"
 date:   2023-09-07 03:00:00 -0300 
 date-show: 8 de Septiembre
 verse: En todo os he enseñado que, trabajando así, se debe ayudar a los necesitados, y recordar las palabras del Señor Jesús, que dijo -Más bienaventurado es dar que recibir
