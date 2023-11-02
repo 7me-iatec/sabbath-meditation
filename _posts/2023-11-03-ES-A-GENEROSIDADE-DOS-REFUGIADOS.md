@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "LA GENEROSIDAD DE LOS REFUGIADOS"
-date:   2023-11-03 03:00:00 -0300 
+date:   2023-11-02 03:00:00 -0300 
 date-show: 3 de noviembre
 verse: Porque, si uno lo hace de buena voluntad, lo que da es bien recibido según lo que tiene, y no según lo que no tiene
 verse-ref: 2 Corintios 8:12
