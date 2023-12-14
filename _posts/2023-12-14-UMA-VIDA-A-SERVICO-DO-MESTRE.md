@@ -3,7 +3,7 @@ layout: post
 title:  "UMA VIDA A SERVIÇO DO MESTRE"
 date:   2023-12-14 03:00:00 -0300
 date-show: 15 DE DEZEMBRO
-verse: Depois disto, ouvi a voz do Senhor, que dizia: A quem enviarei, e quem há de ir por Nós? Eu respondi: Eis-me aqui, envia-me a mim.
+verse: "Depois disto, ouvi a voz do Senhor, que dizia: A quem enviarei, e quem há de ir por Nós? Eu respondi: Eis-me aqui, envia-me a mim."
 verse-ref: Isaías 6:8
 categories: meditation pt
 ---
