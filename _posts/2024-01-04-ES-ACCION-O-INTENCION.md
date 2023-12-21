@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "¿ACCIÓN O INTENCIÓN?"
-date:   2024-01-04 03:00:00 -0300
+date:   2023-12-21 03:00:00 -0300
 date-show: 5 de enero
 verse: "Así, hermanos, por la tierna misericordia de Dios, les ruego que presenten su cuerpo en sacrificio vivo, santo, agradable a Dios, que es el culto espiritual de ustedes"
 verse-ref: Romanos 12:1
