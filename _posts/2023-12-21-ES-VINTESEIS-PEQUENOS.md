@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Veintiséis pequeños milagros"
+title:  "VENTISÉIS PEQUEÑOS MILAGROS"
 date:   2023-12-21 03:00:00 -0300
 date-show: 22 de diciembre
 verse: "Porque tú eres mi roca y mi castillo; por tu nombre me guiarás y me encaminarás"
