@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "AÇÃO OU INTENÇÃO?"
-date:   2023-12-26 03:00:00 -0300
+date:   2024-01-04 03:00:00 -0300
 date-show: 5 de janeiro
 verse: Portanto, irmãos, pelas misericórdias de Deus, peço que ofereçam o seu corpo como sacrifício vivo, santo e agradável a Deus. Este é o culto racional de vocês
 verse-ref: Romanos 12:1
