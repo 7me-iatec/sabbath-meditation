@@ -8,7 +8,6 @@ verse-ref: Mateus 19:26
 categories: meditation pt
 ---
 
-
 O bebê parecia estar morto. O que havia começado como um parto cesáreo de rotina, que tinha nos tirado de um piquenique sabático, havia se convertido em um pesadelo: o bebê estava na posição errada. Estávamos todos molhados de suor, pois a temperatura no centro cirúrgico era alta e o ar-condicionado não funcionava por causa da delicada situação elétrica do local.
 
 Finalmente, ouviu-se um forte ruído de sucção, e o bebê foi retirado. O doutor Bland aspirou rapidamente a pequena boca do bebê. O doutor Vadym depositou o menino em meus braços e voltou para lutar contra as múltiplas hemorragias que ameaçavam a vida da mãe.
