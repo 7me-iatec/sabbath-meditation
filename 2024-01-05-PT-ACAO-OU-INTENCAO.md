@@ -2,7 +2,7 @@
 layout: post
 title:  "Ação ou Intenção?"
 date:   2023-12-26 03:00:00 -0300
-date-show: 29 DE DEZEMBRO
+date-show: 05 DE JANEIRO
 verse: Portanto, irmãos, pelas misericórdias de Deus, peço que ofereçam o seu corpo como sacrifício vivo, santo e agradável a Deus.
 Este é o culto racional de vocês
 verse-ref: Romanos 12:1
@@ -21,4 +21,4 @@ Porém, nenhuma resolução é tão importante quanto as que estão ligadas à n
 4º) Frequentar regularmente os cultos da igreja sempre que possível, evitando que a comunhão virtual substitua a comunhão pessoal.
 5º) Renovar o compromisso de fi delidade nos dízimos e nas ofertas regulares. O dízimo deve ser 10% de todas as rendas; para a oferta, pode ser estabelecida uma porcentagem ( ____%) a ser entregue de acordo com todas as rendas.
 
-Peça ajuda a Deus a cada dia para que essas resoluções se tornem realidade em sua vida ao longo do ano
+Peça ajuda a Deus a cada dia para que essas resoluções se tornem realidade em sua vida ao longo do ano.
