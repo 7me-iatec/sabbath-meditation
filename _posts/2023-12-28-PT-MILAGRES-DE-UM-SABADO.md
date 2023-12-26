@@ -3,7 +3,7 @@ layout: post
 title:  "MILAGRES DE UM SÁBADO"
 date:   2023-12-26 03:00:00 -0300
 date-show: 29 DE DEZEMBRO
-verse: Jesus, olhando para eles, disse: Para os seres humanos isto é impossível, mas para Deus tudo é possível.
+verse: "Jesus, olhando para eles, disse: Para os seres humanos isto é impossível, mas para Deus tudo é possível."
 verse-ref: Mateus 19:26
 categories: meditation pt
 ---
