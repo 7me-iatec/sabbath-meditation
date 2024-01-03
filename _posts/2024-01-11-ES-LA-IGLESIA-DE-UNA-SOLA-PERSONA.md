@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "LA IGLESIA DE UNA SOLA PERSONA"
-date:   2023-01-03 03:00:00 -0300
+date:   2024-01-03 03:00:00 -0300
 date-show: 12 de enero
 verse: "Para presentarla para sí una iglesia gloriosa, sin mancha ni arruga ni cosa semejante; antes, que sea santa e inmaculada"
 verse-ref: Efesios 5:27
