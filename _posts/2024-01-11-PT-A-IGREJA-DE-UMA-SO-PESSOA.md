@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A IGREJA DE UMA SÓ PESSOA?"
+title:  "A IGREJA DE UMA SÓ PESSOA"
 date:   2024-01-03 03:00:00 -0300
 date-show: 12 de janeiro
 verse: Para a apresentar a Si mesmo como igreja gloriosa, sem mancha, nem ruga, nem coisa semelhante, porém santa e sem defeito.
