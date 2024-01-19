@@ -3,7 +3,7 @@ layout: post
 title:  "ADOTADOS COMO ORFÃOS"
 date:   2024-01-19 03:00:00 -0300
 date-show: 26 de janeiro
-verse: Não deixarei que fi quem órfãos; voltarei para junto de vocês.
+verse: Não deixarei que fiquem órfãos; voltarei para junto de vocês.
 verse-ref: João 14:18
 categories: meditation pt
 ---
