@@ -4,7 +4,7 @@ title:  "ALGUÉM ESTÁ VENDO"
 date:   2024-01-25 03:00:00 -0300
 date-show: 02 de fevereiro
 verse: Para onde me ausentarei do Teu Espírito? Para onde fugirei da Tua face? Se subo aos céus, lá estás; se faço a minha cama no mais profundo abismo, lá estás também.
-verse-ref: Salmo 139:7
+verse-ref: Salmos 139:7
 categories: meditation pt
 ---
 
