@@ -3,7 +3,7 @@ layout: post
 title:  "QUÉ HACER CUANDO NO CONFÍO?"
 date:   2024-02-06 03:00:00 -0300
 date-show: 16 de febrero
-verse: “Dios, levántate, defiende tu causa"
+verse: Dios, levántate, defiende tu causa
 verse-ref: Salmo 74:22
 categories: meditation es
 ---
