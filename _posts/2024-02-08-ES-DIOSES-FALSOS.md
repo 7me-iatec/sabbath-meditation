@@ -3,7 +3,7 @@ layout: post
 title:  "DIOSES FALSOS"
 date:   2024-02-06 03:00:00 -0300
 date-show: 09 de febrero
-verse: “Cambiaron la verdad de Dios en mentira, y adoraron y sirvieron a las criaturas antes que al Creador, que es bendito por los siglos. Amén"
+verse: Cambiaron la verdad de Dios en mentira, y adoraron y sirvieron a las criaturas antes que al Creador, que es bendito por los siglos. Amén
 verse-ref: Romanos 1:25
 categories: meditation es
 ---
