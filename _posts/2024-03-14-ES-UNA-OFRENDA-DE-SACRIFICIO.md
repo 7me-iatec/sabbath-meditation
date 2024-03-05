@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "UNA RAZÓN PARA VIVIR"
+title:  "UNA OFRENDA DE SACRIFICIO"
 date:   2024-03-05 03:00:00 -0300
 date-show: 15 de marzo
 verse: Porque de tal manera amó Dios al mundo, que dio a su Hijo único, para que todo el que crea en él no perezca, sino que tenga vida eterna.
