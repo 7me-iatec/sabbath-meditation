@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "UMA OFERTA DE SACRIFÍCIO"
-date:   2024-02-06 03:00:00 -0300
+date:   2024-03-05 03:00:00 -0300
 date-show: 15 de março
 verse: Porque Deus amou o mundo de tal maneira que deu o Seu Filho unigênito.
 verse-ref: João 3:16
