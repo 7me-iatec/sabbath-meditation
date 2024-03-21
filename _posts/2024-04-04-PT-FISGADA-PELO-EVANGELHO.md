@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  ""FISGADA" PELO EVANGELHO"
+title:  "FISGADA PELO EVANGELHO"
 date:   2024-03-21 03:00:00 -0300
 date-show: 05 de abril
 verse: Porque Deus amou o mundo de tal maneira que deu o Seu Filho unigênito, para que todo o que Nele crê não pereça, mas tenha a vida eterna.
