@@ -17,10 +17,13 @@ Para o dízimo, Deus escolheu um percentual. A palavra dízimo significa 10% das
 Você percebeu a palavra “proporção”? O percentual das ofertas pode ser reavaliado na medida em que as bênçãos de Deus aumentarem na vida financeira.
 
 Resumindo:
+
 1º) As ofertas e os dízimos devem ser entregues com base em um percentual.
+
 2º) Deus escolheu o percentual do dízimo. O adorador escolhe o percentual das ofertas.
+
 3º) Essa é a maneira de evitar que os dízimos e as ofertas sejam entregues por impulso ou irrefletidamente.
+
 4º) Não posso modificar o percentual do dízimo, pois já foi estabelecido por Deus. Devo, porém, manter o propósito de aumentar a proporção das ofertas, a fim de auxiliar na causa do evangelho.
 
-Hoje quero convidá-lo a orar a Deus para definir um percentual de ofertas. Se você já procede dessa forma, pode, neste momento, orar e escolher manter ou atualizar o percentual. Essa é uma das maneiras de colocar o eu por último e
-Deus em primeiro lugar.
+Hoje quero convidá-lo a orar a Deus para definir um percentual de ofertas. Se você já procede dessa forma, pode, neste momento, orar e escolher manter ou atualizar o percentual. Essa é uma das maneiras de colocar o eu por último e Deus em primeiro lugar.
