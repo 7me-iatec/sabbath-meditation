@@ -3,7 +3,7 @@ layout: post
 title:  "QUANTO DEVE SER A MINHA OFERTA?"
 date:   2024-04-24 03:00:00 -0300
 date-show: 26 de abril
-verse: Em verdade lhes digo que esta viú va pobre lanç ou na caixa de ofertas mais do que todos os ofertantes. Porque todos eles deram daquilo que lhes sobrava; ela, porém, da sua pobreza deu tudo o que possuí a, todo o seu sustento.
+verse: Em verdade lhes digo que esta viúva pobre lançou na caixa de ofertas mais do que todos os ofertantes. Porque todos eles deram daquilo que lhes sobrava; ela, porém, da sua pobreza deu tudo o que possuía, todo o seu sustento.
 verse-ref:  Marcos 12:43, 44
 categories: meditation pt
 ---
