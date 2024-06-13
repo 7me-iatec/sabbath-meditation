@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "PRINCIPIOS BÍBLICOS DE LA OFRENDA"
+title:  "APRENDER A VIVIR"
 date:   2024-06-13 03:00:00 -0300
 date-show: 14 de junio
 verse: No lo digo porque tenga necesidad, pues aprendí a contentarme con cualquier situación. Sé vivir en pobreza y en abundancia; aprendí a estar contento en toda situación, bien alimentado o con hambre, en abundancia o en necesidad. Todo lo puedo en Cristo que me fortalece.
