@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "UN CANAL SIEMPRE FLUIDO"
-date:   2024-06-21 03:00:00 -0300
-date-show: 20 de junio
+date:   2024-06-20 03:00:00 -0300
+date-show: 21 de junio
 verse: Porque al que tiene le será dado, y tendrá en abundancia. Y al que no tiene, aun lo que tiene le será quitado.
 verse-ref: Mateo 25:29
 categories: meditation es
