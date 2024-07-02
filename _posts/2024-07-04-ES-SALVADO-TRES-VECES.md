@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "SERIEDAD EN EL USO DE LOS RECURSOS"
+title:  "SALVADO TRES VECES"
 date:   2024-07-02 03:00:00 -0300
 date-show: 05 de julio
 verse: Nos salvó, no por obras de justicia que nosotros hubiéramos hecho, sino por su misericordia, por el lavamiento regenerador y renovador del Espíritu Santo.
