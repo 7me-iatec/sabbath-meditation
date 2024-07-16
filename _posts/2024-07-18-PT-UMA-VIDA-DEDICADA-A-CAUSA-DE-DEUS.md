@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Uma Vida Dedicada à Causa de Deus"
+title:  "Uma vida dedicada à causa de Deus"
 date:   2024-07-16 03:00:00 -0300
 date-show: 19 de julho
 verse: E não somente fizeram como nós esperávamos, mas, pela vontade de Deus, deram a si mesmos, primeiro ao Senhor, depois a nós.
