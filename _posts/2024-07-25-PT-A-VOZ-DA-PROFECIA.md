@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A voz da profecia"
+title:  "A Voz da Profecia"
 date:   2024-07-23 03:00:00 -0300
 date-show: 26 de julho
 verse: Vão por todo o mundo e preguem o evangelho a toda criatura.
