@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "La voz de la profecía"
+title:  "LA VOZ DE LA PROFECÍA"
 date:   2024-07-23 03:00:00 -0300
 date-show: 26 de julio
 verse: Entonces vi otro ángel que volaba por el cielo con el evangelio eterno para predicarlo a los que habitan en la tierra, a toda nación y tribu, lengua y pueblo.
