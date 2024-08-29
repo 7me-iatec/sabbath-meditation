@@ -3,7 +3,7 @@ layout: post
 title:  "COMEÇAR DO ZERO"
 date:   2024-08-29 03:00:00 -0300
 date-show: 30 de agosto
-verse: Depois disto, ouvi a voz do Senhor, que dizia: “A quem enviarei, e quem há de ir por Nós?” Eu respondi: “Eis-me aqui, envia-me a mim.”
+verse: Depois disto, ouvi a voz do Senhor, que dizia: A quem enviarei, e quem há de ir por Nós? Eu respondi: Eis-me aqui, envia-me a mim.
 verse-ref: Isaías 6:8
 categories: meditation pt
 ---
