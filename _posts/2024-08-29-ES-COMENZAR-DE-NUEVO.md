@@ -3,7 +3,7 @@ layout: post
 title:  "COMENZAR DE NUEVO"
 date:   2024-08-29 03:00:00 -0300
 date-show: 30 de agosto
-verse: Después oí la voz del Señor, que dijo: ¿A quién enviaré? ¿Quién irá de nuestra parte?. Entonces respondí: Aquí estoy, envíame a mí
+verse: "Después oí la voz del Señor, que dijo: ¿A quién enviaré? ¿Quién irá de nuestra parte?. Entonces respondí: Aquí estoy, envíame a mí."
 verse-ref: Isaías 6:8
 categories: meditation es
 ---
